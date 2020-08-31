@@ -1,0 +1,9 @@
+.App_Links {
+  padding: 0 16px;
+}
+
+.App .App_Links li {
+  list-style: none;
+  display: inline;
+  margin: 16px 16px 0 0;
+}

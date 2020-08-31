@@ -1,0 +1,11 @@
+.AppLoading,
+.AppError,
+.AppSuccess {
+  padding: 32px 0 16px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.AppSuccess blockquote {
+  margin: 0;
+}
